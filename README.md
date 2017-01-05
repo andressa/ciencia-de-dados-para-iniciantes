@@ -28,4 +28,15 @@ Os exemplos utilizados durante este curso são extraídos de fontes gratuitas, q
 
 Este repositório é uma tradução do curso que pode ser encontrado em inglês [aqui](https://github.com/bodacea/datascienceforbeginners).
 
+## Seções
 
+1. Projetando e definindo o escopo de um projeto de Ciência de Dados
+2. Conceitos básicos de Python
+3. Obtendo os dados
+4. Comunicando resultados
+5. Limpando e Explorando os dados
+6. Machine Learning (Máquina de Aprendizado)
+7. Lidando com dados textuais
+8. Lidando com dados geoespaciais
+9. Aprendendo relacionamentos entre dados
+10. Lidando com Big Data
