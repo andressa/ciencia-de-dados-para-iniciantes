@@ -95,3 +95,20 @@ Que os participantes:
 
 * Download da ferramenta Tabula;
 * Pensar em dados que sejam relevantes para o seu projeto que uma máquina não consiga compreender sem um determinado programa (ex. planilha xls, pdf, imagens, mapas)
+
+### Seção 4: Comunicando resultados
+
+**O que esta seção aborda?**
+
+Introdução a comunicação e visualização de dados através de ferramentas (Tableau, Highcharts/D3).
+
+**O que é esperado ao final desta seção?**
+
+Que os participantes:
+
+* Tenham um conhecimento básico sobre como transmitir de maneira persuasiva um resultado através de uma visualização;
+* Instalem o Tableau e conheçam comandos básicos;
+
+**O que é preciso preparar antes desta seção?**
+
+* Download e instalação do Tableau;
