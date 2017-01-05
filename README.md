@@ -58,7 +58,7 @@ Que os participantes:
 
 Acessar sites como Kaggle.com, Drivendata.com e Datakind.org e procurar entender que tipo de desafios/perguntas estão sendo propostos, bem como o conjunto de dados oferecido e a quem se destinam as soluções requeridas.
 
-### Seção 3: Conhecendo Python
+### Seção 2: Conhecendo Python
 
 **O que esta seção aborda?**
 
@@ -70,3 +70,28 @@ Que os participantes:
 
 * Tenham em seus computadores o seu próprio ambiente em Python e R;
 * Sejam capazes de rodar comandos básicos em Python;
+
+**O que é preciso preparar antes desta seção?**
+
+* Instalar pacotes conforme instruções que estão na pasta _referencias_;
+* Ganhar familiaridade com um Terminal;
+* Instalar Python e Git
+
+### Seção 3: Obtendo os dados
+
+**O que esta seção aborda?**
+
+O que é um conjunto de dados e introdução a coleta de dados;
+
+**O que é esperado ao final desta seção?**
+
+Que os participantes:
+
+* Tenham a ideia de que praticamente qualquer conjunto pode ser utilizado como um conjunto de dados;
+* Compreendam conceitos básicos de APIs;
+* Sejam apresentação a ferramentas de webscraping;
+
+**O que é preciso preparar antes desta seção?**
+
+* Download da ferramenta Tabula;
+* Pensar em dados que sejam relevantes para o seu projeto que uma máquina não consiga compreender sem um determinado programa (ex. planilha xls, pdf, imagens, mapas)
