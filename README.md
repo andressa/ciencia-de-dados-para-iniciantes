@@ -40,3 +40,13 @@ Este repositório é uma tradução do curso que pode ser encontrado em inglês 
 8. Lidando com dados geoespaciais
 9. Aprendendo relacionamentos entre dados
 10. Lidando com Big Data
+
+### Seção 1: Projetando e definindo o escopo de um projeto de Ciência de Dados
+
+* O que esta seção aborda?
+	* Introdução ao conteúdo e material de apoio necessários para cientistas de dados trabalharem a partir da especificação de um problema. É esperado que os participantes também comentem sobre as especificações do problema de ciência de dados existente.
+* O que é esperado ao final desta seção?
+	* Que os participantes entendam algumas das necessidades e armadilhas que existem durante a especificação de um problema;
+	* Que os participantes iniciem a sua própria especificação de um projeto de ciência de dados;
+* O que é preciso preparar antes desta seção?
+	* Acessar sites como Kaggle.com, Drivendata.com e Datakind.org e procurar entender que tipo de desafios/perguntas estão sendo propostos, bem como o conjunto de dados oferecido e a quem se destinam as soluções requeridas.
