@@ -31,7 +31,7 @@ Este repositório é uma tradução do curso que pode ser encontrado em inglês 
 ## Seções
 
 1. Projetando e definindo o escopo de um projeto de Ciência de Dados
-2. Conceitos básicos de Python
+2. Conhecendo Python
 3. Obtendo os dados
 4. Comunicando resultados
 5. Limpando e Explorando os dados
@@ -43,10 +43,30 @@ Este repositório é uma tradução do curso que pode ser encontrado em inglês 
 
 ### Seção 1: Projetando e definindo o escopo de um projeto de Ciência de Dados
 
-* O que esta seção aborda?
-	* Introdução ao conteúdo e material de apoio necessários para cientistas de dados trabalharem a partir da especificação de um problema. É esperado que os participantes também comentem sobre as especificações do problema de ciência de dados existente.
-* O que é esperado ao final desta seção?
-	* Que os participantes entendam algumas das necessidades e armadilhas que existem durante a especificação de um problema;
-	* Que os participantes iniciem a sua própria especificação de um projeto de ciência de dados;
-* O que é preciso preparar antes desta seção?
-	* Acessar sites como Kaggle.com, Drivendata.com e Datakind.org e procurar entender que tipo de desafios/perguntas estão sendo propostos, bem como o conjunto de dados oferecido e a quem se destinam as soluções requeridas.
+**O que esta seção aborda?**
+
+Introdução ao conteúdo e material de apoio necessários para cientistas de dados trabalharem a partir da especificação de um problema. É esperado que os participantes também comentem sobre as especificações do problema de ciência de dados existente.
+
+**O que é esperado ao final desta seção?**
+
+Que os participantes:
+
+* Entendam algumas das necessidades e armadilhas que existem durante a especificação de um problema;
+* Iniciem a sua própria especificação de um projeto de ciência de dados;
+
+**O que é preciso preparar antes desta seção?**
+
+Acessar sites como Kaggle.com, Drivendata.com e Datakind.org e procurar entender que tipo de desafios/perguntas estão sendo propostos, bem como o conjunto de dados oferecido e a quem se destinam as soluções requeridas.
+
+### Seção 3: Conhecendo Python
+
+**O que esta seção aborda?**
+
+Introdução a uma das linguagens de progração mais utilizadas em projetos de ciência de dados: Python.
+
+**O que é esperado ao final desta seção?**
+
+Que os participantes:
+
+* Tenham em seus computadores o seu próprio ambiente em Python e R;
+* Sejam capazes de rodar comandos básicos em Python;
