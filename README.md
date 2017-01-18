@@ -131,3 +131,20 @@ Que os participantes:
 **O que é necessário preparar antes desta seção?**
 
 * Instalação do _Google OpenRefine Outcome_;
+
+### Seção 6: Machine Learning (Máquina de Aprendizado)
+
+**O que esta seção aborda?**
+
+Introdução a algoritmos de regressão e classificação utilizando Machine Learning (ML).
+
+**O que é esperado ao final desta seção?**
+
+Que os participantes experimentem:
+
+* Algoritmos de regressão em um conjunto de dados utilizando Python e R;
+* Algoritmos de classificação em um conjunto de dados utilizando Python e R;
+
+**O que é necessário preparar antes desta seção?**
+
+Esta seção não requer preparação.
