@@ -54,7 +54,7 @@ Que os participantes:
 * Entendam algumas das necessidades e armadilhas que existem durante a especificação de um problema;
 * Iniciem a sua própria especificação de um projeto de ciência de dados;
 
-**O que é preciso preparar antes desta seção?**
+**O que é necessário preparar antes desta seção?**
 
 Acessar sites como Kaggle.com, Drivendata.com e Datakind.org e procurar entender que tipo de desafios/perguntas estão sendo propostos, bem como o conjunto de dados oferecido e a quem se destinam as soluções requeridas.
 
@@ -71,7 +71,7 @@ Que os participantes:
 * Tenham em seus computadores o seu próprio ambiente em Python e R;
 * Sejam capazes de rodar comandos básicos em Python;
 
-**O que é preciso preparar antes desta seção?**
+**O que é necessário preparar antes desta seção?**
 
 * Instalar pacotes conforme instruções que estão na pasta _referencias_;
 * Ganhar familiaridade com um Terminal;
@@ -91,7 +91,7 @@ Que os participantes:
 * Compreendam conceitos básicos de APIs;
 * Sejam apresentação a ferramentas de webscraping;
 
-**O que é preciso preparar antes desta seção?**
+**O que é necessário preparar antes desta seção?**
 
 * Download da ferramenta Tabula;
 * Pensar em dados que sejam relevantes para o seu projeto que uma máquina não consiga compreender sem um determinado programa (ex. planilha xls, pdf, imagens, mapas)
@@ -109,6 +109,25 @@ Que os participantes:
 * Tenham um conhecimento básico sobre como transmitir de maneira persuasiva um resultado através de uma visualização;
 * Instalem o Tableau e conheçam comandos básicos;
 
-**O que é preciso preparar antes desta seção?**
+**O que é necessário preparar antes desta seção?**
 
 * Download e instalação do Tableau;
+
+### Seção 5: Limpando e Explorando os dados
+
+**O que esta seção aborda?**
+
+Esta seção introduz técnicas de _Data Manging_ e como explorar padrões em dados antes de utilizar algoritmos.
+
+**O que é esperado ao final destal seção?**
+
+Que os participantes:
+
+* Tenham noção de como utilizar _OpenRefine_ para aplicar _Data Manging_;
+* Obtenção de um conjunto de dados "limpo";
+* Utilizem a linguagem R para explorar padrões;
+* Sejam capazes de gerar gráficos exploratórios com o pacote _Matplotlib_ (Python);
+
+**O que é necessário preparar antes desta seção?**
+
+* Instalação do _Google OpenRefine Outcome_;
