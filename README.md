@@ -148,3 +148,24 @@ Que os participantes experimentem:
 **O que é necessário preparar antes desta seção?**
 
 Esta seção não requer preparação.
+
+### Seção 7: Lidando com dados textuais
+
+**O que esta seção aborda?**
+
+Introdução a:
+
+* compreensão de textos como um conjunto de dados;
+* métodos e ferramentas utilizados para obtenção de textos;
+* métodos para encontrar padrões em textos;
+
+**O que é esperado ao final desta seção?**
+
+Que os participantes:
+
+* Entendam conceitos básicos de análise de texto;
+* Percebam alguns problemas conhecidos na área de Mineração de Textos;
+
+**O que é necessário preparar antes desta seção?**
+
+* Instalação do pacote NLTK
