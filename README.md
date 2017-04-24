@@ -169,3 +169,49 @@ Que os participantes:
 **O que é necessário preparar antes desta seção?**
 
 * Instalação do pacote NLTK
+
+### Lidando com dados geoespaciais
+
+**O que esta seção aborda?**
+
+Introdução a:
+
+* conceito de mapas como dados e visualização espacial;
+* técnicas e ferramentas utilizados para trabalhar com mapas (Gdal, Shapely, QGIS, CartoDB);
+
+**O que é esperado ao final desta seção?**
+
+Que os participantes entendam conceitos básicos de dados espaciais, incluindo também problemas recorrentes conhecidos na área.
+
+**O que é necessário preparar antes desta seção?**
+
+### Aprendendo relacionamentos entre dados
+
+**O que esta seção aborda?**
+
+Esta seção aborda:
+
+* a teoria de redes sociais (_social network_) utilizada em Aprendizado de Máquinas;
+* algumas visualizações mais utilizadas na área (Gephi, NetworkX);
+
+**O que é esperado ao final desta seção?**
+
+[completar]
+
+**O que é necessário preparar antes desta seção?**
+
+[completar]
+
+### Lidando com Big Data
+
+**O que esta seção aborda?**
+
+* Introdução a conceitos de _Big Data_
+* Apresenta ferramentas, tais como Hadoop;
+* Explica o é _streaming_ de dados;
+
+**O que é esperado ao final desta seção?**
+
+**O que é necessário preparar antes desta seção?**
+
+* Download Hadoop
